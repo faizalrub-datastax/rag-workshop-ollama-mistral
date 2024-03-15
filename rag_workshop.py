@@ -1,5 +1,5 @@
 ASTRA_DB_API_ENDPOINT = "https://78e5fc41-a92d-43ee-be98-1dc613a9792d-us-east1.apps.astra.datastax.com"
-ASTRA_DB_APPLICATION_TOKEN = "AstraCS:TBIwGbRWytSBEsyUBxrvstwz:717221911013217a4cf5d8944df761ead1e05f9158def21f75e86a1f4fc9796c"
+ASTRA_DB_APPLICATION_TOKEN = "<>"
 
 
 import os
